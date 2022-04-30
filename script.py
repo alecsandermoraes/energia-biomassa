@@ -10,7 +10,6 @@ layout = [
     [sg.Button('Calcular')],
 ]
 
-
 window = sg.Window('Cálculo de Energia a Biomassa', layout)
 
 while True:
