@@ -6,7 +6,7 @@ sg.theme('Black')
 
 # Criação do layout 
 layout = [
-    [sg.Text('Possuindo um valor de referência de algum outro local, insira a quantidade de energia produzida por 1 da biomassa\ne, logo após, a quantidade da biomassa que deseja saber o quanto de energia será gerada')],
+    [sg.Text('Possuindo um valor de referência de algum outro local, insira a quantidade de energia produzida por 1 quilo\nda biomassa e, logo após, a quantidade da biomassa que deseja saber o quanto de energia será gerada')],
     [sg.Text('Energia Liberada por um 1kg de Biomassa (Wh):'), sg.Input(key = 'energia')],
     [sg.Text('Quantidade de Biomassa Desejada (kg):'), sg.Input(key = 'biomassa')],
     [sg.Button('Calcular')],
