@@ -1,7 +1,7 @@
 # Cálculo de Energia e Biomassa 
 
 ## Calculadora 
-Este é um programa capaz de cálcular a quantidade de energia que seria capaz de ser gerada por uma determinada quantidade de biomassa, através de valores referenciais que são pesquisados e testados.
+Este é um programa capaz de calcular a quantidade de energia que seria capaz de ser gerada por uma determinada quantidade de biomassa, através de valores referenciais que são pesquisados e testados.
 
 Então, por exemplo, baseado em dados testados pela Universidade Estadual do Centro-Oeste (Unicentro), sabemos que 1 tonelada de celulose produz 850 kWh de energia, logo, 1 quilo produz 850 Wh. Com este valor, é inserido no primeiro campo de texto do aplicativo que é produzido 850 Wh com um 1 quilo e, no segundo campo de texto, deve ser inserido a quantidade (em quilos) de biomassa que deseja descobrir quanto de energia gera. 
 
