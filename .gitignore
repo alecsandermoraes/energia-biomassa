@@ -1,4 +1,4 @@
 ./dist
 ./app
 ./build 
-./gerador-de-gráfico.py
+gerador-de-gráfico.py
