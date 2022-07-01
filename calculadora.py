@@ -1,7 +1,7 @@
 import PySimpleGUI as sg 
 import sys
 
-sg.theme('Dark')
+sg.theme('Black')
 
 layout = [
     [sg.Text('Possuindo um valor de referência de algum outro local, insira a quantidade de energia produzida por certa quantidade de biomassa')],
