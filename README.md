@@ -7,7 +7,7 @@ Então, por exemplo, baseado em dados testados pela Universidade Estadual do Cen
 
 Supondo que queremos saber quanto de energia será gerada por 25 quilos de celulose sabendo que 1 quilo gera 850 Wh, vai ser inserido no aplicativo e ele fará uma regra de 3 simples:
 
-01 kg ------ 850 Wh
+01 kg ------ 850 Wh<br>
 25 kg ------ x Wh 
 
 x = 850.25 = 21250 Wh 
