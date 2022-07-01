@@ -6,7 +6,7 @@ tipos_energeticos = ['5', '15', '25', '35']
 
 # Valores da energia gerada por cada quantidade de biomassa em watt hora (Wh)
 valores_energeticos = [4250, 12750, 21250, 29750]
-
+ 
 # Definição das barras do gráfico 
 plt.bar(tipos_energeticos, valores_energeticos, color = 'deepskyblue')
 

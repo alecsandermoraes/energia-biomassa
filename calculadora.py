@@ -6,8 +6,8 @@ sg.theme('Black')
 
 # Criação do layout 
 layout = [
-    [sg.Text('Possuindo um valor de referência de algum outro local, insira a quantidade de energia produzida por certa quantidade de biomassa')],
-    [sg.Text('Energia Liberada por um 1kg de Biomassa:'), sg.Input(key = 'energia')],
+    [sg.Text('Possuindo um valor de referência de algum outro local, insira a quantidade de energia produzida por 1 da biomassa\ne, logo após, a quantidade da biomassa que deseja saber o quanto de energia será gerada')],
+    [sg.Text('Energia Liberada por um 1kg de Biomassa (Wh):'), sg.Input(key = 'energia')],
     [sg.Text('Quantidade de Biomassa Desejada (kg):'), sg.Input(key = 'biomassa')],
     [sg.Button('Calcular')],
 ]
@@ -31,7 +31,7 @@ while True:
             # Cálculo da energia com o valor de biomassa entregue
             result = int(values['energia']) * int(values['biomassa'])
             # Apresentação do resultado em quilojoule (kJ)
-            sg.popup(f'{int(values["biomassa"])}kg de biomassa irá gerar: ' + str(result) + 'kJ de energia')
+            sg.popup(f'{int(values["biomassa"])} kg de biomassa irá gerar: ' + str(result) + ' Wh de energia')
         except ValueError:
             # Verificação se o valor entregue é válido
             sg.popup('Insira apenas números como valores')
