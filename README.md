@@ -21,9 +21,9 @@ Há também, um conversor junto, que possui a função de capturar um valor ener
 
 Por exemplo, utilizando o valor anterior de 850Wh e inserindo no aplicativo, será obtido como resultado:
 
-> 850 Wh
-> 0,85 kWh
-> 3060000 J 
-> 3060 kJ
-> 731340 cal 
-> 731,34 kCal 
+> 850 Wh<br>
+> 0,85 kWh<br>
+> 3060000 J<br>
+> 3060 kJ<br>
+> 731340 cal<br>
+> 731,34 kCal<br>
