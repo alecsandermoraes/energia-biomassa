@@ -15,3 +15,15 @@ x = 850.25 = 21250 Wh
 Veja a prática do aplicativo:
 
 <img src="demonstração-1.png" alt="Demonstração do Aplicativo">
+
+## Conversor 
+Há também, um conversor junto, que possui a função de capturar um valor energético e converter em outros tipos, transitando entre quilowatt hora (kWh), watt hora (Wh), joule (J), quilojoule (kJ), caloria (cal) e quilocaloria (kCal).
+
+Por exemplo, utilizando o valor anterior de 850Wh e inserindo no aplicativo, será obtido como resultado:
+
+> 850 Wh
+> 0,85 kWh
+> 3060000 J 
+> 3060 kJ
+> 731340 cal 
+> 731,34 kCal 
