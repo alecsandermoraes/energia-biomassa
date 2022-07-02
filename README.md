@@ -27,3 +27,5 @@ Por exemplo, utilizando o valor anterior de 850Wh e inserindo no aplicativo, ser
 > 3060 kJ<br>
 > 731340 cal<br>
 > 731,34 kCal<br>
+
+<img src="demonstração-2.png" alt="Demonstração do Conversor">
