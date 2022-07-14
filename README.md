@@ -29,3 +29,7 @@ Por exemplo, utilizando o valor anterior de 850 Wh e inserindo no aplicativo, se
 > 731,34 kCal<br>
 
 <img src="demonstração-2.png" alt="Demonstração do Conversor">
+
+
+
+
