@@ -1,3 +1,3 @@
-./dist
-./app
-./build 
+/dist
+/build 
+/__pycache__
